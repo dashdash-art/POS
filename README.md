@@ -1,1 +1,1 @@
-# POS
+A simple Python-based Point-of-Sale (POS) system featuring purchase, return, inventory management, and sales reporting functionalities. Designed using classes and basic data structures for clarity and ease of use.
